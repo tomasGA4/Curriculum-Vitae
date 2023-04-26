@@ -44,19 +44,6 @@ header{
     max-width: 24%;
 }
 
-.bienvenida {
-    font-size: 200%;
-    margin: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-.intro{
-    font-size: 150%;
-    margin: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 94%;
-}
-
 h1 {
     text-align: center;
     width: 1200px;
@@ -65,9 +52,6 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.contindex{
-    max-width: 1200px;
-} 
 img {
     max-width: 45%;
     margin-top: 20px;
@@ -81,4 +65,25 @@ img {
 
 .enlaces {
     padding-left: 15px;
+}
+
+
+
+
+
+.contindex{
+    max-width: 1200px;
+} 
+
+.h2 {
+    font-size: 200%;
+    margin: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.intro{
+    font-size: 150%;
+    margin: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 94%;
 }
